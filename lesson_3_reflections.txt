@@ -5,3 +5,6 @@ To let other people or team members push and pull the repositiory and work on th
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date 
 with your remote repository?
 To pull certain branch commits not every commit made in the repository
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forking is just online cloning that github do for you on you github account, cloning is to pull a repository from github, local or even another computer, while branches are those parallel paths of people working on different aspects of the project simultaneously.
